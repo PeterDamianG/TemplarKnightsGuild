@@ -6,7 +6,7 @@ Puede verse [Aquí](https://peterdamiang.github.io/TemplarKnightsGuild/).
 
 ## Screenshot
 
-![](img/screenshotpageweb/ScreenshotTKG)
+![](img/screenshotpageweb/ScreenshotTKG.png)
 
 ### Registro de cambios
 
