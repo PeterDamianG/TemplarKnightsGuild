@@ -1,0 +1,25 @@
+/* Font: Old London*/
+@font-face {
+	font-family: 'Old London';
+	src: url('../fonts/oldlondon.ttf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Old London';
+	src: url('../fonts/oldlondonalternate.ttf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Old London';
+	src: url('../fonts/oldlondon.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Old London';
+	src: url('../fonts/oldlondona.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}

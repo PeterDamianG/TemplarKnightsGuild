@@ -1,0 +1,111 @@
+.myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: fixed;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 4vw;
+  transition: 1s ease;
+  border-radius: 3xp;
+}
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+/* Fading animation */
+.fade {
+  -ms-animation-name: fade;
+  -ms-animation-duration: 3s;
+  -o-animation-name: fade;
+  -o-animation-duration: 3s;
+  -moz-animation-name: fade;
+  -moz-animation-duration: 3s;
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 3s;
+  animation-name: fade;
+  animation-duration: 3s;
+}
+@-ms-keyframes fade {
+	from {opacity: .4} 
+	to {opacity: 1}
+}
+@-o-keyframes fade {
+	from {opacity: .4} 
+	to {opacity: 1}
+}
+@-moz-keyframes fade {
+	from {opacity: .4} 
+	to {opacity: 1}
+}
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+/*Texto flotante delante de los videos*/
+.container {
+  position: fixed;
+  text-align: center;
+}
+/* Bottom right text */
+.text-block {
+  position: relative;
+  margin: 5vw auto;
+  width: 50%;
+  text-align: center;
+  font-size: 4vw;
+  background-color: rgba(0, 0, 0, 0.4);
+  color: white;
+  border-radius: 1vw;
+}
+span {
+  background: black;
+  text-align: center;
+  font-size: 2vw;
+  cursor: pointer;
+  border-style: outset;
+  border-radius: 5vw;
+  transition: 0.2s;
+}
+span:hover {
+  color: black;
+  box-shadow: 2px 2px #888888;
+}
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 600px) {
+	.prev, .next,.text {font-size: 1vw}
+  }
+  .myVideo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 1vw}
+  .myVideo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+}

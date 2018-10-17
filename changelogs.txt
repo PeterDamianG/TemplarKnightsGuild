@@ -1,0 +1,15 @@
+ChageLogs
+
+_v 0.1:
+
+* .- Show the prototype.
+* .- Client responsive.
+* .- Font Awesome.
+____________________________________________________________________________________
+Registro de cambios
+
+_v 0.1:
+
+* .- Muestra completa del prototipo.
+* .- Lado del cliente responsivo.
+* .- Uso de Font Awesome.
