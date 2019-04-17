@@ -26,4 +26,4 @@ _v 0.2:_
 * .- Cambio del sistema de MPA a SPA.
 * .- Actualizada la lista de juegos (Eliminado L2).
 * .- Uso de VueJS como framework front-end.
-* .- MinificaciÃ³n y optimizaciÃ³n.
+* .- Minificación y optimización.
