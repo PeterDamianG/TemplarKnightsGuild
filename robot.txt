@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /media/
+Sitemap: http://www.templarknightsguild.tk/sitemap.xml
