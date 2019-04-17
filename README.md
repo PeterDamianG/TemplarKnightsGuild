@@ -2,7 +2,8 @@
 
 Este es un prototipo y diseño de una página web, para una guild de juegos.
 
-Puede verse [Aquí](https://peterdamiang.github.io/TemplarKnightsGuild/index.html).
+Puede verse [Aquí](https://peterdamiang.github.io/TemplarKnightsGuild/index.html) y/o también 
+[Aquí](http://www.templarknightsguild.tk/).
 
 ## Screenshot
 
@@ -10,11 +11,20 @@ Puede verse [Aquí](https://peterdamiang.github.io/TemplarKnightsGuild/index.htm
 
 ### Registro de cambios
 
-_v 0.1:
+_v 0.1:_
 
 * .- Muestra completa del prototipo.
 * .- Lado del cliente responsivo.
 * .- Uso de Font Awesome.
+
+_v 0.2:_
+
+* .- Cambio del sistema de MPA a SPA.
+* .- Actualizada la lista de juegos (Eliminado L2).
+* .- Uso de VueJS como framework front-end.
+* .- Minificación y optimización.
+
+-------------------------------------------------------------------------------------------------------------
 
 #### Licencia MIT
 Copyright (c) 2018 Peter DG
@@ -26,9 +36,9 @@ El aviso de copyright anterior y este aviso de permiso se incluirán en todas la
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADA A GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O PROPIETARIOS DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑOS U OTRAS RESPONSABILIDADES, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O CUALQUIER OTRO MOTIVO, DERIVADAS DE, FUERA DE O EN CONEXIÓN CON EL SOFTWARE O SU USO U OTRO TIPO DE ACCIONES EN EL SOFTWARE. 
 
 -------------------------------------------------------------------------------------------------------------
-© CopyRight 2018. Todos los derechos reservados. Todas las marcas registradas pertenecen a sus respectivos dueños en EE. UU. y otros países. No afiliado con Valve Corp y/o BitSkins.
+© CopyRight 2018. Todos los derechos reservados. Todas las marcas registradas pertenecen a sus respectivos dueños en EE. UU. y otros países. No afiliado con Valve Corp, BitSkins y/o asociaciones regiosas.
 
-##### Comentarios finales
+##### Comentarios Finales
 
 Este desarrollo son parte de mis practicas y hobbys, con mis amigos y conocidos, los cuales somos muy apasionados con los videojuegos. 
 Parte del diseño de la web, pertenece al usuario [FaztWeb](https://github.com/FaztWeb/landing-page-three) y de la [W3](https://www.w3schools.com/).
@@ -41,7 +51,7 @@ ________________________________________________________________________________
 
 This is a prototype and design of a web page, for a guild games.
 
-Can see [Aquí](https://peterdamiang.github.io/TemplarKnightsGuild/).
+Can see [Here](https://peterdamiang.github.io/TemplarKnightsGuild/) or [Aquí](http://www.templarknightsguild.tk/).
 
 ### ChageLogs
 
@@ -50,6 +60,15 @@ _v 0.1:
 * .- Show the prototype.
 * .- Client responsive.
 * .- Font Awesome.
+
+_v 0.2:_
+
+* .- Change system MPA to SPA.
+* .- Updated game list. (Remove L2)
+* .- VueJS is actual framework front-end.
+* .- Minification and optimization.
+
+-------------------------------------------------------------------------------------------------------------
 
 #### MIT license
 Copyright (c) 2018 Peter DG
@@ -61,9 +80,9 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
 
 -------------------------------------------------------------------------------------------------------------
-© CopyRight 2018. All rights reserved. All trademarks belong to their respective owners in the USA. and other countries. Not affiliated with Valve Corp and BitSkins.
+© CopyRight 2018. All rights reserved. All trademarks belong to their respective owners in the USA. and other countries. Not affiliated with Valve Corp, BitSkins and/or religious association.
 
-##### Comentarios finales
+##### Final Comments
 
 This is a practice with my friends, our are very passionate about videogames.
 Design web source by [FaztWeb](https://github.com/FaztWeb/landing-page-three) and [W3](https://www.w3schools.com/).
