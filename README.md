@@ -2,7 +2,7 @@
 
 Este es un prototipo y diseño de una página web, para una guild de juegos.
 
-Puede verse [Aquí](https://peterdamiang.github.io/TemplarKnightsGuild/index.html) y/o también 
+Puede verse [Aquí](https://peterdamiang.github.io/TemplarKnightsGuild/) y/o también 
 [Aquí](http://www.templarknightsguild.tk/).
 
 ## Screenshot
