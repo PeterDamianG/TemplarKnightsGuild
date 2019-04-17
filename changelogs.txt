@@ -5,11 +5,25 @@ _v 0.1:
 * .- Show the prototype.
 * .- Client responsive.
 * .- Font Awesome.
+
+_v 0.2:_
+
+* .- Change system MPA to SPA.
+* .- Updated game list. (Remove L2)
+* .- VueJS is actual framework front-end.
+* .- Minification and optimization.
 ____________________________________________________________________________________
 Registro de cambios
 
-_v 0.1:
+_v 0.1:_
 
 * .- Muestra completa del prototipo.
 * .- Lado del cliente responsivo.
 * .- Uso de Font Awesome.
+
+_v 0.2:_
+
+* .- Cambio del sistema de MPA a SPA.
+* .- Actualizada la lista de juegos (Eliminado L2).
+* .- Uso de VueJS como framework front-end.
+* .- Minificación y optimización.
